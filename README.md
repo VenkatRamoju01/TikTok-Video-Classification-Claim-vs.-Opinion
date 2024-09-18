@@ -14,11 +14,5 @@ I have broken down the entire process into four stages: **Plan, Analyze, Constru
 - **Construct** – Comparing machine learning models  
 - **Evaluate** – Interpreting the model, assessing its limitations, and providing recommendations
 
-[**Click here**](Entire_notebook.ipynb) to review the entire analysis in a single notebook. Additionally, each of these stages is covered in separate Jupyter notebook files for conciseness. Please follow the notebooks in the same order for a step-by-step understanding of the project:
-
-- **[](Plan Notebook)**
-- **[](Analyse Notebook)**
-- **[](Feature engineering Notebook)**
-- **[](Construct Notebook)**
-- **[](Evaluate Notebook)**
+[**Click here**](Entire_notebook.ipynb) to review the entire analysis in a single notebook. 
 
